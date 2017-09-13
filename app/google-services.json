@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "453178068881",
+    "firebase_url": "https://share2grade.firebaseio.com",
+    "project_id": "share2grade",
+    "storage_bucket": "share2grade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453178068881:android:5be65a091b72d62b",
+        "android_client_info": {
+          "package_name": "com.adnanyunus.share2grade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453178068881-vg8ll61fn0djcpltat10onu1q0aje580.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adnanyunus.share2grade",
+            "certificate_hash": "285598f48675e086ab90eb144acd528eef0c8448"
+          }
+        },
+        {
+          "client_id": "453178068881-mj0pn56miqjmv5cl6ji01b0pjcc8tqop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARWLjIZxiHoZKt2INPwRXrVXwC0irs_ew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453178068881-mj0pn56miqjmv5cl6ji01b0pjcc8tqop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

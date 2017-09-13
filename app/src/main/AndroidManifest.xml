@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.adnanyunus.share2grade">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".MainScreen" />
+        <activity android:name=".ListManager" />
+        <activity android:name=".UserInfoOntoDatabase" />
+        <activity android:name=".FireBaseDisplay" />
+        <activity android:name=".NameList" />
+        <activity android:name=".PreviousLists" />
+        <activity android:name=".UpdateList" />
+        <activity android:name=".MonitoredLists" />
+        <activity android:name=".PeekListLayout" />
+        <activity android:name=".GradedListLayout" />
+        <activity android:name=".ViewGrades" />
+        <activity android:name=".GradeAnalysis" />
+
+    </application>
+
+</manifest>
